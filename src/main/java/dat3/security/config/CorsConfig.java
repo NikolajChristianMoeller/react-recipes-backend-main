@@ -14,10 +14,11 @@ public class CorsConfig {
     private static final String[] ALLOWED_ORIGINS = new String[] {
             //"*",
             "https://example.com/",
-            "http://localhost:5173"
+            "http://localhost:5173",
             //"http://127.0.0.1:5500"
             //"http://127.0.0.1:5173"
             //"http://127.0.0.1:5174-5178"
+            "https://nikolajchristianmoeller.github.io/recipes-start"
 
     };
     @Bean
