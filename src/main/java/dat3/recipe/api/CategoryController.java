@@ -6,7 +6,7 @@ import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+// hejsa med dig Kenneth
 @RestController
 @RequestMapping("/categories")
 public class CategoryController {
